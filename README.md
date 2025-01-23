@@ -83,3 +83,43 @@ Deliverables => Pictures of the session, a board with all the ideas, Highlight o
     Deliverables => Pictures of the new test
                  => A report with your conclusions, your impressions and your key learnings from this iteration (PDF document)
                  => Comparison between V1 and V2 of the prototype in the report.
+
+
+UI
+
+1. Find the colors
+2. Color Codes
+3. Color Combinations
+
+4. Moodboard
+ Deliverable => A figma file
+                On the moodboard several pictures (5 to 12) that are graphically consistent in terms of colors.
+The main colors extracted and shown on the side.
+One color code per color (RGB, Hex or HSB).
+
+5. Typography
+   Deliverable => A Figma file showing all the typographies used
+
+6. UI Challenge
+7. Browsing => 
+    template.
+    organism.
+    molecule.
+    atom.
+8. Material Design
+    Deliverables => 
+    A Figma file with the image.
+    On each screen, indicate the layers order with numbers. 1 being the background image, 2 the element right on top, etc.
+9. Grids 
+10. Multi state
+11. Accessibility (how they ease the reading or perception of visual content)
+ eg. Color contrast.
+Highlighted or enlarged text when hovering.
+Links color that is different from the body text's.
+Breadcrumbs to indicate where you are in terms of navigation.
+In forms, the title of the case should be above the text zone.
+Error states.
+
+12. Breadcrumbs
+A website breadcrumb strategy is a visual navigation tool that helps users locate where they are within a website’s content and how to return to an earlier page.
+13. Toggle Buttons, Radio buttons, Calenders, Time pickers, Micro interactions, Consistency
